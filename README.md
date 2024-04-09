@@ -41,7 +41,7 @@ Detailed tests are not required.
 
 ## Submission
 
-Create a private Git repository on the platform of your choice and add shaun@turn.io as a member. Once you are happy with your submission notify shaun@turn.io for review.
+Create a private Git repository on the platform of your choice. Once you are happy with your submission notify shaun@turn.io for review.
 
 Your submission should include brief documentation detailing:
 - How to execute the Terraform (e.g. set GCP credentials in `<insert file name here>` and run `terraform plan` ...)
